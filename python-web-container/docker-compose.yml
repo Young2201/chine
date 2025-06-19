@@ -1,0 +1,11 @@
+python-web-container
+├── src
+│   ├── app.py
+│   ├── requirements.txt
+│   └── templates
+│       └── index.html
+├── tests
+│   └── test_app.py
+├── Dockerfile
+├── docker-compose.yml
+└── README.md
