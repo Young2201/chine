@@ -1,5 +1,5 @@
 name: Build and Deploy to GCR
-# This workflghgow builds a Docker image and pushes it to Google Container Registry (GCR).
+
 on:
   push:
     branches: [ main ]
